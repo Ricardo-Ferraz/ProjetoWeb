@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Projeto</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="saiba_mais_sobre_o_cblol">Saiba mais sobre o MSI</string>
+    <string name="saiba_mais_sobre_a_e3">Saiba mais sobre a E3</string>
+    <string name="retornar">Retornar</string>
+    <string name="e3">Segundo a Blizzard, haverá um mapa enorme que os jogadores poderão explorar, fazer quests específicas de cada classe com várias facções, limpar acampamentos corrompidos pelas forças sombrias para criar pontos de viagem rápida e outros recursos, como ferreiros e NPCs. O mundo estará em constante mudança com muito mais do que foi relatado; a ideia é sair das áreas conectadas e em grande maioria procedurais de Diablo 3 e ter uma experiência fluida e com aspectos mais modernos.</string>
+    <string name="diablo">Diablo</string>
+    <string name="lol">A equipe brasileira teve um começo de jogo muito promissor, inclusive com o domínio total de Leonardo "Robo" Souza na rota superior.
+No entanto, a sequência de erros de posicionamento da paiN Gaming foi aproveitada pela MAD Lions, que se recuperou no jogo e assumiu a vantagem. A paiN não conseguiu mais se encontrar no jogo, foi derrotada e deu adeus ao MSI 2021.</string>
+    <string name="sobre">Sobre</string>
+    <string name="mid_season_invitational">                      Mid-Season Invitational</string>
+    <string name="electronic_entertainment_expo">Electronic Entertainment Expo</string>
+</resources>
